@@ -1,7 +1,3 @@
 
 #!/bin/bash
-<<<<<<< HEAD
 ls
-=======
-ls 0x00-shell_basics
->>>>>>> f9d59c43a2c1a8281c314a019545ef948c7cbda0
